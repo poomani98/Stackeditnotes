@@ -134,7 +134,7 @@ main(){
 <p>The variable <code>formVar</code> holds a reference to <code>ngForm</code> any changes made to the form will be reflected in the <code>formVar</code> variable.<br>
 On submitting the form the  template reference variable<br>
 <code>formVar</code> is passed to the method <code>onSubmit(form : ngForm)</code>where we can make use of the form data.</p>
-<h2 id="directives">Directives</h2>
+<h1 id="angular-directives">Angular Directives</h1>
 <h3 id="ngif">ngIf</h3>
 <p>Shorthand:</p>
 <pre><code>&lt;div *ngIf="condition"&gt;Content to render if true&lt;/div&gt;
